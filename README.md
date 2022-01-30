@@ -1,4 +1,4 @@
-# Dasmoto-s-Arts---Crafts
+# Dasmoto's Arts & Crafts
 
 > Codecademy's Web Developement Fundamentals off-platform project
 
